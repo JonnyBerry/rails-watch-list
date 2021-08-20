@@ -21,6 +21,7 @@ class ListsController < ApplicationController
       render :new
   end
 end
+
   private
 
   def list_params
